@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+ /*div {
+    background-color:white;
+    color: blue;
+}
+div {
+    background-color: white;
+    color: blue;
+}
+form {
+    background-color: white;
+    color: blue;
+}
+p1 {
+    background-color: white;
+    color: blue;
+} 
+span {
+    background-color: white;
+    color: blue;
+}
+
+
+
+new task1 file styles
+
+ .link{
+    background-color: green;
+    color: white;
+}*/
+
+new work 
+
+h1{
+    background-color: white;
+    color: green;
+    text-align: center;
+}
+span{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;  
+    
+    font-weight: bold;
+    font
+p{
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

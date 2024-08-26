@@ -1,34 +1,25 @@
-/*div{
-   
-    height: 100px;
-    width: 100px;
-    background-color: green;
-    border-radius: 50%;
-}*/
-*{
-    background-color: blue;
-    
-}
-#box{
-    background-color: black;
-    height:60px;
-    gap:200px;
-    border: 10px solid white;
-    
-    
-
-}
-span{
+nav{
+    border: 2px solid black;
+    padding: 15px;
     background-color: black;
     color: white;
 }
-div{
-    word-spacing: 200px;
+nav span{
+    margin: 76px;
+}
+#maintext{
+    color: orange;
+    font-size: 25px;
+}
+input{
+    padding: 4px;
 
 }
-#product{
-background-color: white;
+button{
+    background-color:orange;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
 }
-.link{
-    background-color:yellow;
-}
+
+

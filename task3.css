@@ -1,0 +1,67 @@
+/*first blackbox css*/
+nav{
+    border: 2px solid black;
+    background-color: black;
+    color:white;
+    padding: 15px;
+    
+}
+.link1{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    
+}
+nav span{
+    margin: 10px;
+}
+#maintext,span{
+    color: white;
+}
+input{
+border: 2px solid black;
+margin-left: 700px;
+}
+
+/*second bluebox*/
+#maint{
+    border: 2px solid blue;
+    background-color: blue;
+    color:white;
+    padding: 6px;
+}
+.link2{
+    border: 1px solid white;
+    border-color: white;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
+#maint{
+    color: aquamarine;
+}
+/*third blue box*/
+#text{
+    border:2px solid aquamarine;
+    background-color:aquamarine;
+    color:white;
+    padding: 10px;  
+    
+}
+.link3{
+    border: 1px solid white;
+    border-color: blue;
+    background-color:aquamarine;
+    border-radius: 5px;
+    color: blue;
+}
+ 
+
+
+
+
+
+
+    
+    

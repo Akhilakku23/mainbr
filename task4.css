@@ -1,0 +1,31 @@
+
+/*first nav1*/
+*{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+nav{
+    border: 2px solid rgb(37, 35, 35);
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+.container{
+    margin: 0px 440px 0px 440px;
+    color: rgb(130, 139, 139);
+}
+.cont1{
+    margin:0px 20px 0px 20px;
+}
+button{
+background-color: rgb(19, 156, 190);
+color: white;
+border-radius: 10px;
+border;
+}
+
+
